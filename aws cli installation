@@ -1,1 +1,1 @@
-$ sudo snap install aws-cli --classic
+sudo snap install aws-cli --classic
