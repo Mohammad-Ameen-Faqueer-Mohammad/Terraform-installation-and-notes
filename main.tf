@@ -1,7 +1,3 @@
-provider "aws" {
-  region = "ap-south-1" # Mumbai region (you can change this to any valid AWS region)
-}
-
 resource "aws_default_vpc" "default" {}
 
 resource "aws_security_group" "my_sg" {
