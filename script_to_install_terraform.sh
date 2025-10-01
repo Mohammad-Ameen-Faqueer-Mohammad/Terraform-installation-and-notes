@@ -25,3 +25,5 @@ sudo apt-get install -y terraform
 
 echo "Terraform installation complete!"
 terraform -version
+
+sudo snap install aws-cli --classic
